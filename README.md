@@ -191,21 +191,6 @@ ASTU EXAM is a Flutter-based learning platform designed to help students prepare
 
 ---
 
-## 🎵 Kingdom Sound Worship
-
-> **A modern digital platform for worship, media and church events.**
-
-Built with modern web technologies with a focus on:
-
-* 🎵 Worship content
-* 📅 Events
-* 📰 Blog management
-* 🛠️ Admin functionality
-* 🗄️ Database-driven content
-* 📱 Responsive design
-
-**Tech:** `Next.js` · `React` · `Node.js` · `MySQL`
-
 ---
 
 ## 🏢 EvaDevStudio
