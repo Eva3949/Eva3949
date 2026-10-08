@@ -30,6 +30,40 @@ I'm a **Software Engineering student at Adama Science and Technology University 
 
 I enjoy working across the stack — from **designing interfaces and mobile experiences** to building **APIs, databases, authentication systems, and scalable application architectures**.
 
+---
+
+# 🛠️ Technology Stack
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,dart,php,java,python,html,css" />
+</p>
+
+### 🌐 Frontend & Web
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind" />
+</p>
+
+### 📱 Mobile
+
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase" />
+</p>
+
+### 🗄️ Backend & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,php,mysql,postgres,firebase" />
+</p>
+
+### ⚙️ Tools & Workflow
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma,postman,docker" />
+</p>
+
 ```text
 ┌─────────────────────────────────────────────────────────────┐
 │                     SOFTWARE ENGINEER                        │
@@ -122,39 +156,6 @@ I care about:
 </tr>
 </table>
 
----
-
-# 🛠️ Technology Stack
-
-### 💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=js,ts,dart,php,java,python,html,css" />
-</p>
-
-### 🌐 Frontend & Web
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind" />
-</p>
-
-### 📱 Mobile
-
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase" />
-</p>
-
-### 🗄️ Backend & Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,php,mysql,postgres,firebase" />
-</p>
-
-### ⚙️ Tools & Workflow
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma,postman,docker" />
-</p>
 
 ---
 
