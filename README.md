@@ -66,14 +66,14 @@ I enjoy working across the stack — from **designing interfaces and mobile expe
 
 ```text
 ┌─────────────────────────────────────────────────────────────┐
-│                     SOFTWARE ENGINEER                        │
+│                     SOFTWARE ENGINEER                       │
 ├─────────────────────────────────────────────────────────────┤
-│  🌐 Web             Full-Stack Applications                  │
-│  📱 Mobile          Flutter & Dart                           │
-│  ⚙️ Backend         APIs, Authentication & Business Logic    │
-│  🗄️ Database        MySQL, PostgreSQL & Firebase             │
-│  🎨 Frontend        React, Next.js & Modern UI/UX            │
-│  🧠 Engineering     Architecture, Clean Code & Scalability   │
+│  🌐 Web             Full-Stack Applications                 │
+│  📱 Mobile          Flutter & Dart                          │
+│  ⚙️ Backend         APIs, Authentication & Business Logic   │
+│  🗄️ Database        MySQL, PostgreSQL & Firebase            │
+│  🎨 Frontend        React, Next.js & Modern UI/UX           │
+│  🧠 Engineering     Architecture, Clean Code & Scalability  │
 └─────────────────────────────────────────────────────────────┘
 ```
 
